@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\nomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\nomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\nomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\nomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Math\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\civisplus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\civisplus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\cidadespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\cidadespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\cidadespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\cidadespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|c:\\users\\math\\source\\repos\\mobile-technologies\\maui\\civisplus\\civisplus\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37A8E3AD-1B7D-4741-868C-F84A4E9E19AD}|CivisPlus\\CivisPlus.csproj|solutionrelative:civisplus\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\NomePage.xaml.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\NomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\NomePage.xaml.cs",
+              "RelativeToolTip": "CivisPlus\\NomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:02:46.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CivisPlus\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\MainPage.xaml",
+              "RelativeToolTip": "CivisPlus\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T12:59:22.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\Math\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\Math\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAGcCAAAAAAAAAADwv3YCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-13T18:33:16.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CivisPlus\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\AppShell.xaml",
+              "RelativeToolTip": "CivisPlus\\AppShell.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T11:41:23.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\App.xaml",
+              "RelativeDocumentMoniker": "CivisPlus\\App.xaml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\App.xaml",
+              "RelativeToolTip": "CivisPlus\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T15:51:34.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\App.xaml.cs",
+              "RelativeToolTip": "CivisPlus\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:40:52.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\AppShell.xaml.cs",
+              "RelativeToolTip": "CivisPlus\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:35:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\MauiProgram.cs",
+              "RelativeToolTip": "CivisPlus\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:03:54.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\NomePage.xaml",
+              "RelativeDocumentMoniker": "CivisPlus\\NomePage.xaml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\NomePage.xaml",
+              "RelativeToolTip": "CivisPlus\\NomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T11:47:47.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\MainPage.xaml.cs",
+              "RelativeToolTip": "CivisPlus\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:02:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppState.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\AppState.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\AppState.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\AppState.cs",
+              "RelativeToolTip": "CivisPlus\\AppState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:55:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CivisPlus.csproj",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\CivisPlus.csproj",
+              "RelativeDocumentMoniker": "CivisPlus\\CivisPlus.csproj",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\CivisPlus.csproj",
+              "RelativeToolTip": "CivisPlus\\CivisPlus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T11:42:38.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "CivisPlus\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:27:57.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CidadesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\CidadesPage.xaml.cs",
+              "RelativeDocumentMoniker": "CivisPlus\\CidadesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\CidadesPage.xaml.cs",
+              "RelativeToolTip": "CivisPlus\\CidadesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T13:11:29.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAgwNUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-13T20:52:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "CivisPlus\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "CivisPlus\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-15T22:41:14.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CidadesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\CidadesPage.xaml",
+              "RelativeDocumentMoniker": "CivisPlus\\CidadesPage.xaml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\CidadesPage.xaml",
+              "RelativeToolTip": "CivisPlus\\CidadesPage.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwDEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T11:47:27.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "CivisPlus\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "CivisPlus\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-13T16:31:18.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "CivisPlus\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "CivisPlus\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T15:46:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "CivisPlus\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Math\\source\\repos\\mobile-technologies\\maui\\CivisPlus\\CivisPlus\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "CivisPlus\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-13T15:46:00.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

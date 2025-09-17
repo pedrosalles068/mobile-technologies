@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CivisPlus.MainPage"
+             BackgroundColor="White">
+    <VerticalStackLayout
+        Padding="24"
+        VerticalOptions="Center">
+
+        <Frame
+            Padding="24"
+            CornerRadius="16"
+            BorderColor="Transparent"
+            BackgroundColor="#e3e3e3">
+            <Frame.Shadow>
+                <Shadow Brush="Black"
+                        Offset="5,5"
+                        Radius="15"
+                        Opacity="0.2" />
+            </Frame.Shadow>
+
+            <VerticalStackLayout Spacing="20">
+                <Image
+                    Source="civis_logo.png"
+                    HeightRequest="100"
+                    HorizontalOptions="Center" />
+
+                <Label
+                    Text="Bem-vindo ao seu guia da cidade!"
+                    Style="{StaticResource Headline}"
+                    HorizontalTextAlignment="Center" />
+
+                <Label
+                    Text="Explore informações detalhadas sobre sua localização atual com apenas um toque."
+                    Style="{StaticResource Subhead}"
+                    HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>

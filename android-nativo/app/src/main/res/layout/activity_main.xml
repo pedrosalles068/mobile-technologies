@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- You can add a TextView here if you want to see something 
+         if this layout were to be accidentally inflated, but it's not strictly necessary
+         for fixing the build error as MainActivity uses Jetpack Compose. -->
+
+</FrameLayout>

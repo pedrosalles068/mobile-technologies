@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CivisPlus.CidadesPage"
+             BackgroundColor="{StaticResource PageBackground}">
+
+    <Grid RowDefinitions="Auto, *" Padding="16" RowSpacing="12">
+
+        <Label Grid.Row="0"
+               x:Name="StatusLabel"
+               IsVisible="False"
+               HorizontalOptions="Center"
+               TextColor="{StaticResource Primary}"
+               FontAttributes="Bold"
+               FontSize="16" />
+
+        <VerticalStackLayout Grid.Row="1"
+                             x:Name="LoadingLayout"
+                             IsVisible="False"
+                             Spacing="10"
+                             VerticalOptions="Start" 
+                             Margin="0,20,0,0"
+                             HorizontalOptions="Center">
+
+            <ActivityIndicator x:Name="ActivityIndicator"
+                               IsRunning="False"
+                               Color="{StaticResource Primary}"/>
+
+            <Label x:Name="LoadingLabel"
+                   TextColor="{StaticResource TextSecondary}"/>
+        </VerticalStackLayout>
+
+        <Frame Grid.Row="1"
+               x:Name="SuccessCard"
+               IsVisible="False"
+               VerticalOptions="Start"
+               Padding="20"
+               CornerRadius="28" 
+               BackgroundColor="#e3e3e3"
+               BorderColor="Transparent">
+            <Frame.Shadow>
+                <Shadow Brush="Black" Offset="5,5" Radius="15" Opacity="0.2" />
+            </Frame.Shadow>
+
+            <VerticalStackLayout Spacing="16">
+                <Label Text="Dados da Localidade" TextColor="{StaticResource Primary}" Style="{StaticResource Headline}" HorizontalTextAlignment="Center"/>
+                <Grid ColumnDefinitions="Auto, Auto, *" RowDefinitions="Auto,Auto,Auto" RowSpacing="12" ColumnSpacing="12" VerticalOptions="Center">
+                    <Image Grid.Row="0" Grid.Column="0" Source="cidades_icon.svg" HeightRequest="20" WidthRequest="20" VerticalOptions="Center"/>
+                    <Label Grid.Row="0" Grid.Column="1" Text="Cidade:" FontAttributes="Bold" TextColor="{StaticResource Primary}" VerticalOptions="Center"/>
+                    <Label Grid.Row="0" Grid.Column="2" x:Name="CidadeLabel" FontAttributes="Bold" Text="-" TextColor="{StaticResource Primary}" VerticalOptions="Center"/>
+                    <Image Grid.Row="1" Grid.Column="0" Source="estado_icon.svg" HeightRequest="20" WidthRequest="20" VerticalOptions="Center"/>
+                    <Label Grid.Row="1" Grid.Column="1" Text="Estado:" FontAttributes="Bold" TextColor="{StaticResource Primary}" VerticalOptions="Center"/>
+                    <Label Grid.Row="1" Grid.Column="2" x:Name="EstadoLabel" Text="-" TextColor="{StaticResource Primary}" VerticalOptions="Center"/>
+                    <Image Grid.Row="2" Grid.Column="0" Source="populacao_icon.svg" HeightRequest="20" WidthRequest="20" VerticalOptions="Center"/>
+                    <Label Grid.Row="2" Grid.Column="1" Text="População:" FontAttributes="Bold" TextColor="{StaticResource Primary}" VerticalOptions="Center"/>
+                    <Label Grid.Row="2" Grid.Column="2" x:Name="PopulacaoLabel" FontAttributes="Bold" Text="-" TextColor="{StaticResource Primary}" VerticalOptions="Center"/>
+                </Grid>
+            </VerticalStackLayout>
+        </Frame>
+
+        <Frame Grid.Row="1"
+               x:Name="ErrorCard"
+               IsVisible="False"
+               VerticalOptions="Start"
+               CornerRadius="28">
+            <VerticalStackLayout Spacing="12" HorizontalOptions="Center">
+                <Label x:Name="ErrorLabel" Text="Não foi possível obter os dados." TextColor="Red" FontAttributes="Bold"/>
+                <Button Text="Tentar Novamente" Clicked="OnRetryButtonClicked" />
+            </VerticalStackLayout>
+        </Frame>
+    </Grid>
+</ContentPage>

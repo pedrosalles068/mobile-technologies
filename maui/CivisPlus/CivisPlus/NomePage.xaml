@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CivisPlus.NomePage"
+             BackgroundColor="{StaticResource PageBackground}">
+
+    <Grid RowDefinitions="Auto, Auto, *">
+
+        <Label Grid.Row="0"
+               Text="Ranking de Nomes por Localidade"
+               Style="{StaticResource Headline}"
+               HorizontalTextAlignment="Center"
+               Padding="0,16,0,0"/>
+
+        <Frame Grid.Row="1"
+               BorderColor="{StaticResource CardBorder}"
+               CornerRadius="10"
+               Padding="12,0"
+               Margin="16,12"
+               HeightRequest="48"
+               BackgroundColor="{StaticResource CardBackground}">
+            <Entry x:Name="NameSearchBar"
+                   Placeholder="Pesquisar nome" 
+                   TextChanged="OnNameSearchTextChanged"
+                   BackgroundColor="Transparent"
+                   VerticalOptions="Center" />
+        </Frame>
+
+        <Grid Grid.Row="2" Padding="16,0">
+
+            <Frame x:Name="WaitingCard" VerticalOptions="Start" Padding="16" CornerRadius="12" BorderColor="{StaticResource Secondary}" BackgroundColor="{StaticResource CardBackground}">
+                <Label Text="Por favor, obtenha os dados da sua localidade na tela 'Cidades' primeiro."
+                       HorizontalTextAlignment="Center"
+                       TextColor="{StaticResource TextPrimary}"/>
+            </Frame>
+
+            <VerticalStackLayout x:Name="LoadingLayout" IsVisible="False" VerticalOptions="Center" HorizontalOptions="Center" Spacing="8">
+                <ActivityIndicator x:Name="LoadingIndicator" IsRunning="True" Color="{StaticResource Primary}" />
+                <Label x:Name="LoadingLabel" Text="Buscando ranking de nomes..." TextColor="{StaticResource TextSecondary}" />
+            </VerticalStackLayout>
+
+            <CollectionView x:Name="NomesCollectionView" IsVisible="False" SelectionMode="None">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="16" Margin="0,0,0,8" CornerRadius="10" BackgroundColor="{StaticResource CardBackground}" BorderColor="Transparent" HasShadow="False">
+                            <Grid ColumnDefinitions="Auto, *, Auto">
+                                <Label Grid.Column="0" Text="{Binding Rank, StringFormat='{0}.'}" FontAttributes="Bold" VerticalOptions="Center" TextColor="#333"/>
+                                <Label Grid.Column="1" Text="{Binding Nome}" FontSize="Medium" VerticalOptions="Center" Padding="10,0" TextColor="{StaticResource TextPrimary}"/>
+                                <Label Grid.Column="2" Text="{Binding FrequenciaFormatada}" HorizontalTextAlignment="End" VerticalOptions="Center" TextColor="{StaticResource TextSecondary}"/>
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Frame x:Name="ErrorCard" IsVisible="False" VerticalOptions="Start" Padding="16" CornerRadius="12" BackgroundColor="{StaticResource ErrorBackgroundColor}" BorderColor="{StaticResource ErrorColor}">
+                <VerticalStackLayout Spacing="12" HorizontalOptions="Center">
+                    <Label x:Name="ErrorLabel" Text="Não foi possível carregar o ranking." TextColor="{StaticResource ErrorColor}" FontAttributes="Bold"/>
+                    <Button Text="Tentar Novamente" Clicked="OnRetryButtonClicked" />
+                </VerticalStackLayout>
+            </Frame>
+        </Grid>
+    </Grid>
+</ContentPage>
